@@ -58,14 +58,14 @@ Experienced software development lead/architect with a strong background in econ
 
 ### Senior Data + Solutions Lead
 
-**NRECA** — *Jan 2025 – Present*
+**NRECA** — *Jan 2025 – present*
 
 - Built and deployed data validation frameworks for the Benefit Plan Rating modernization using MongoDB and SQL Server.
 - Analyzed workflow applications related to the 401k platform migration, overseeing data mapping exercises to help simplify the integration points between legacy and new platforms.
 
 ### Technical Lead / COP Lead
 
-**International Monetary Fund** — *Nov 2022 – Present*
+**International Monetary Fund** — *Nov 2022 – Jan 2025*
 
 - Performed visualization platform operations/security updates and coordinated with various infrastructure and change management teams, maintaining 99.99% system uptimes.
 - Coordinated Tableau-to-Power BI migration initiatives, mentoring ~20 users through training / debugging sessions.
